@@ -1,0 +1,1 @@
+This project will be for a calculator application that I make. It is the first project that I am doing to test my abilities with C#.
